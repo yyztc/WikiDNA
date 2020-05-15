@@ -1,10 +1,14 @@
-==== Infrastructure: Patch Panels ====
+# Infrastructure: Patch Panels 
 
-Room #:\\
-Rack #:\\
-Patch Panel #:
+|||
+|-|-|
+|Room #:| |
+|Rack #:| |
+|Patch Panel #:|
 
-^Port #^Cable Length^Cable Color^Cabel Label^To Switch Port^To Jack |
+
+|Port #|Cable Length|Cable Color|Cabel Label|To Switch Port|To Jack |
+|------|------------|-----------|-----------|--------------|--------|
 |1| | | | | |
 |2| | | | | |
 |3| | | | | |
@@ -53,6 +57,3 @@ Patch Panel #:
 |46| | | | | |
 |47| | | | | |
 |48| | | | | |
-
-\\
-

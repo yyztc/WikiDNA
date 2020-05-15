@@ -1,10 +1,12 @@
-===== WikiDNA: 000 Non-Network Information =====
+# WikiDNA: 000 Non-Network Information =====
 
-Sample Company Inc.
+## Sample Company Inc.
 
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
-Paper Binder Last Print Date:
+| | |
+|-|-|
+|Binder Home:|Internal Wiki|
+|Paper Binder Location:| |
+|Paper Binder Last Print Date:| |
 
 ^Section#^Doc #^Description|
 |000|[[.:001_global_location_assignment_list|001]]|Global Location Assignment List|
@@ -15,8 +17,3 @@ Paper Binder Last Print Date:
 |000|[[:start|030]]|Table of Contents|
 |000|[[https://mjh2901.github.io/WikiDNA/|040]]|Readme (External Link)|
 |000|[[:sidebar|050]]|SideBar|
-
-~~NOCACHE~~
-
-\\
-

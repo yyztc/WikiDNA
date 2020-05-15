@@ -2,30 +2,13 @@
 
 Network DNA
 
-Sample
-Company
-Inc.
+# Sample Company Inc.
+
 August 2004
 
+## Location_01 of 01
 
-
-
-
-Location_01 of 01
-
-Binder Home: ON Location
-
-S
-C
-I
-
-Novell
-Microsoft
-Linux
-
-Novell
-Microsoft
-Linux
+## Binder Home: ON Location
 
 NetworkDNA 
 Doc Version
@@ -48,11 +31,6 @@ Permission is granted to copy, distribute and/or modify this document under the 
 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover
 Texts.  A copy of the license is included in the file entitled "020_GNU Free Documentation License".
 
-Modified
-10/17/04
+Modified: 05/14/2020
 
-Location_01
-of 01
-
-
-
+Location_01 of 01
