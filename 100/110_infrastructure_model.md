@@ -3,7 +3,7 @@
 | | |
 |-|-|
 |Infrastructure Model Identification (ex: INFMOD01):| |
-|Device Type (Router, Firewall, Switch, Hub, Modem):| |
+|Device Type (Router, Firewall, Switch, Modem):| |
 |Manufacturer:| |
 |Model Number: Part Number:|
 |Warranty Duration:| |
@@ -16,4 +16,3 @@
 |Local Username:| |
 |Local Password:| |
 |Configuration password:| |
-
